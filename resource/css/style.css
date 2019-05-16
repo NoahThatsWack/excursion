@@ -11,5 +11,15 @@ h1 {
 
 p {
 	color: aquamarine;
+<<<<<<< HEAD
 	font-size: 16px
 }
+=======
+	text-align: center;
+	font-size: 16px;
+}
+
+.center {
+	margin: 0 auto;
+}
+>>>>>>> 0494a80109ac641ade35e8095e2d553ab1365641
