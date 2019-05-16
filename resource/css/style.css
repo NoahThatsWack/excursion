@@ -34,3 +34,8 @@ p, a {
 	font-size: 21px;
 	color: gray;
 }
+
+.copy {
+	color: gray;
+	text-align: right;
+}
